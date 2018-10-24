@@ -1,0 +1,17 @@
+"item_id";"product_name";"department_name";"price";"stock_quantity"
+1;"Tent";"Outdoor";255;3
+2;"Cooler";"Outdoor";50;10
+3;"Umbrella";"Outdoor";25;10
+4;"5W30 Motor Oil";"Automotive";10;23
+5;"Wipers";"Automotive";23;15
+6;"Air Freshener";"Automotive";4;23
+7;"All-Clad Sautee Pan";"Kitchen & Home";63;3
+8;"All-Clad Deep Pot";"Kitchen & Home";75;2
+9;"Hoover Vacuum";"Kitchen & Home";130;6
+10;"Carpet Cleaner";"Kitchen & Home";45;2
+11;"Playstation 3";"Entertainment";100;5
+12;"Playstation 4";"Entertainment";350;2
+13;"Xbox One X";"Entertainment";480;5
+14;"Cabbage";"Kitchen & Home";2;125
+15;"Pastries";"Kitchen & Home";7;10
+16;"Lenovo Thinkpad";"Electronics";1200;2
